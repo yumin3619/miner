@@ -1,0 +1,7 @@
+MONERO: 2.5.2
+PhoenixMiner: 3.5d
+TUBE: 2.5.2
+claymore_eth: '12.0'
+claymore_zec: '12.6'
+ethminer: 0.16.0.dev1
+lolminer: 0.7alpha4
